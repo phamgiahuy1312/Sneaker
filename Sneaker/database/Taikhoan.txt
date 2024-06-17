@@ -1,0 +1,3 @@
+tk admin
+tk: admin@gmail.com
+pass: Giahuyit4
